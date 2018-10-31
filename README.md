@@ -1,2 +1,2 @@
-# Goforth-Travel
-Code Louisville Front End Project Goforth Travel
+# Goforth & Travel
+Code Louisville Front End Project Goforth & Travel website 
