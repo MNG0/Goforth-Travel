@@ -1,0 +1,16 @@
+return color;
+
+}
+
+function print(message) {
+document.write(message);
+
+}
+
+for (var i = 0; i > 108; i+= 1) {
+    rbgColor = randomColor();
+    htn1 += <'div dtyle="background-color:' +rbgColor + ""></div>';
+
+}
+
+print(htn1);
